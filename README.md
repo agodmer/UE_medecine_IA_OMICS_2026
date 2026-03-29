@@ -84,14 +84,19 @@ Lors de l'épidémie épidémie de 2011 (étude [Christner et al.](https://journ
 
 ---
 
-## 📅 Programme du séminaire (Avril 2026)
+## 📅 Programme de l'UE (Avril 2026)
 
-| Jour | Matin (9h-12h) | Après-midi (14h-17h) |
+| Jour | Matin (Cours / DFGSM2) | Après-midi (TP / DFGSM2) |
 | :--- | :--- | :--- |
-| **Mardi 7** | Intro IA [PDF](./Cours/1_Introduction_IA_2026.pdf) | Paramétrage & PCA [PDF](./Cours/2_cours_PCA.pdf) |
-| **Mercredi 8** | IA & OMICS [PDF](./Cours/3_Exemples_application_IA_2026.pdf) | Initiation à Python (Explo 1 & 2) |
-| **Jeudi 9** | Paludisme & Neurosciences | Comprendre le ML avec Python |
-| **Vendredi 17** | **Soutenances orales finales** | **Soutenances orales finales** |
+| **Mardi 7** | Présentation UE, Intro IA & Biblio | Paramétrage & Intro IA / Stats |
+| **Mercredi 8** | Infertilité, OMICS & Spectrométrie | Initiation à Python (Partie 1 & 2) |
+| **Jeudi 9** | Paludisme, Neurosciences & Situations | Comprendre le ML avec Python |
+| **Vendredi 10** | **Mini Congrès Recherche Clinique & IA** | **Mini Congrès Recherche Clinique & IA** |
+| **Lundi 13** | Données Patient (EDS), NLP & LLM | Initiation au ML (Donneés Médicales) |
+| **Mardi 14** | Néphrogénomique, Cardio & Échographie | Travail personnel (Data Challenge) |
+| **Mercredi 15** | REX Onco, Cytologie & SIA | Présentation du Data Challenge |
+| **Jeudi 16** | Travail personnel | Travail personnel |
+| **Vendredi 17** | **Évaluation : Restitution des résultats** | **Évaluation : Restitution des résultats** |
 
 ---
 
