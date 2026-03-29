@@ -1,4 +1,4 @@
-# 🩺 UE : Médecine à l'ère de l'IA et des "Omiques" — 2026
+# UE : Médecine à l'ère de l'IA et des "Omiques" — 2026
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/fr/2/2c/Logo_sante_horiz_rvb.svg" width="150" alt="Sorbonne Santé">
@@ -85,6 +85,10 @@ Lors de l'épidémie de *Escherichia coli* O104:H4 en 2011 (étude [Christner et
 
 - **Dr Alexandre Godmer** (Hôpital Saint-Antoine, CIMI-Paris, Sorbonne-Université)
 - **Pr Antonin Lamazière** (Sorbonne-Université)
+- **Dr Corentin Poignon** (Sorbonne-Université)
+
+## 👤 Co-autheurs des cours et TP
+
 - **Dr Guillaume Bachelot** (CECOS Tenon, Sorbonne-Université)
 - **Dr Orlando Schilton** (Hôpital Trousseau, Sorbonne-Université)
 
