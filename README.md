@@ -1,7 +1,21 @@
-# UE : Médecine à l'ère de l'IA et des "Omiques" — 2026
+<div align="center">
+  <h1>UE : Médecine à l'ère de l'IA et des "Omiques"</h1>
+</div>
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Année-2024-8bc34a?style=flat-square&logo=calendar-days&logoColor=white" alt="Année 2024" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/badge/Année-2025-ff9800?style=flat-square&logo=calendar-days&logoColor=white" alt="Année 2025" style="vertical-align: middle;">
+  
+  <img src="https://img.shields.io/badge/Année-2026-2196f3?style=flat-square&logo=calendar-days&logoColor=white" alt="Année 2026" style="vertical-align: middle;">
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/fr/2/2c/Logo_sante_horiz_rvb.svg" width="180" alt="Sorbonne Santé">
+  <br><br>
   <img src="Images/scai_logo.jfif" width="180" alt="SCAI Logo" style="margin-left: 30px;">
   <br><br>
   <img src="https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge&logo=creative-commons" alt="CC BY-NC-SA 4.0">
@@ -18,9 +32,9 @@
 1.  [📖 Présentation de l'UE](#-présentation-de-lue)
 2.  [🚀 Accès Rapide (Onboarding)](#-accès-rapide-onboarding)
 3.  [💻 Parcours de TP & Notebooks](#-parcours-de-tp--notebooks)
-4.  [📚 La Boîte à Outils (Bible de l'Étudiant)](#-la-boîte-à-outils-bible-de-létudiant)
-5.  [🏆 Le Data Challenge (Évaluation)](#-le-data-challenge-évaluation)
-6.  [📅 Programme & Équipe](#-programme--équipe)
+4.  [📚 La Boîte à Outils](#-la-boîte-à-outils)
+5.  [🏆 Le Data Challenge (évaluation)](#-le-data-challenge-évaluation)
+6.  [📅 Programme](#-programme--équipe)
 
 ---
 
@@ -60,7 +74,7 @@ Chaque TP est une brique essentielle pour réussir votre évaluation finale.
 
 ---
 
-## 📚 La Boîte à Outils (Bible de l'Étudiant)
+## 📚 La Boîte à Outils
 Retrouvez ici nos guides de synthèse pour le Data Challenge :
 *   📘 [**Fiche Métriques Cliniques**](./Ressources_Pedagogiques/Fiche_Metriques_Cliniques.md) : Sensibilité vs Précision.
 *   📗 [**Glossaire Bio-IA**](./Ressources_Pedagogiques/Glossaire_Bio_IA.md) : Dictionnaire labo/IA moderne.
