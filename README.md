@@ -87,7 +87,7 @@ Lors de l'épidémie de *Escherichia coli* O104:H4 en 2011 (étude [Christner et
 - **Pr Antonin Lamazière** (Sorbonne-Université)
 - **Dr Corentin Poignon** (Sorbonne-Université)
 
-## 👤 Co-autheurs des cours et TP
+## 👤 Co-auteurs des cours et TP
 
 - **Dr Guillaume Bachelot** (CECOS Tenon, Sorbonne-Université)
 - **Dr Orlando Schilton** (Hôpital Trousseau, Sorbonne-Université)
