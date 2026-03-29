@@ -1,4 +1,4 @@
-# 🩺 UE : Médecine à l'ère de l'IA et des "Omiques" — 2026
+# UE : Médecine à l'ère de l'IA et des "Omiques" — 2026
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/fr/2/2c/Logo_sante_horiz_rvb.svg" width="180" alt="Sorbonne Santé">
@@ -95,11 +95,14 @@ Lors de l'épidémie épidémie de 2011 (étude [Christner et al.](https://journ
 
 ---
 
-## 👥 Responsables de l'UE
-*   **Dr Alexandre Godmer** (St-Antoine, Sorbonne-Université)
-*   **Pr Antonin Lamazière** (Sorbonne-Université)
-*   **Dr Guillaume Bachelot** (Tenon, Sorbonne-Université)
-*   **Dr Orlando Schilton** (Trousseau, Sorbonne-Université)
+## 👤 Responsables de l'UE
+
+- **Dr Alexandre Godmer** (Hôpital Saint-Antoine, CIMI-Paris, Sorbonne-Université)
+- **Pr Antonin Lamazière** (Sorbonne-Université)
+- **Dr Guillaume Bachelot** (CECOS Tenon, Sorbonne-Université)
+- **Dr Orlando Schilton** (Hôpital Trousseau, Sorbonne-Université)
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square" alt="CC BY-NC-SA 4.0"> <br>
