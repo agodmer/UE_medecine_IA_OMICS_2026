@@ -1,67 +1,86 @@
 # 🩺 UE : Médecine à l'ère de l'IA et des "Omiques" — 2026
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/2/2c/Logo_sante_horiz_rvb.svg" width="150" alt="Sorbonne Santé">
-  <img src="Images/scai_logo.jfif" width="150" alt="SCAI Logo" style="margin-left: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/2/2c/Logo_sante_horiz_rvb.svg" width="180" alt="Sorbonne Santé">
+  <img src="Images/scai_logo.jfif" width="180" alt="SCAI Logo" style="margin-left: 30px;">
   <br><br>
-  <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fagodmer%2FUE_medecine_IA_OMICS_2026&label=Visiteurs&countColor=%23263159&style=flat" alt="Visiteurs">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fagodmer%2FUE_medecine_IA_OMICS_2026&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Vues&edge_flat=false" alt="Vues">
-  <img src="https://img.shields.io/github/stars/agodmer/UE_medecine_IA_OMICS_2026?style=flat&color=gold" alt="Stars">
-  <img src="https://img.shields.io/github/forks/agodmer/UE_medecine_IA_OMICS_2026?style=flat&color=blue" alt="Forks">
-  <img src="https://img.shields.io/github/last-commit/agodmer/UE_medecine_IA_OMICS_2026?style=flat&color=red" alt="Last Commit">
-  <img src="https://img.shields.io/github/languages/count/agodmer/UE_medecine_IA_OMICS_2026?style=flat&color=orange" alt="Languages">
+  <img src="https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge&logo=creative-commons" alt="CC BY-NC-SA 4.0">
+  <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fagodmer%2FUE_medecine_IA_OMICS_2026&label=Visiteurs&countColor=%23263159&style=for-the-badge" alt="Visiteurs">
+  <br>
+  <img src="https://img.shields.io/github/stars/agodmer/UE_medecine_IA_OMICS_2026?style=flat-square&color=gold" alt="Stars">
+  <img src="https://img.shields.io/github/forks/agodmer/UE_medecine_IA_OMICS_2026?style=flat-square&color=blue" alt="Forks">
+  <img src="https://img.shields.io/github/last-commit/agodmer/UE_medecine_IA_OMICS_2026?style=flat-square&color=red" alt="Last Commit">
 </div>
 
 ---
 
+## 📌 Sommaire
+1.  [📖 Présentation de l'UE](#-présentation-de-lue)
+2.  [🚀 Accès Rapide (Onboarding)](#-accès-rapide-onboarding)
+3.  [💻 Parcours de TP & Notebooks](#-parcours-de-tp--notebooks)
+4.  [📚 La Boîte à Outils (Bible de l'Étudiant)](#-la-boîte-à-outils-bible-de-létudiant)
+5.  [🏆 Le Data Challenge (Évaluation)](#-le-data-challenge-évaluation)
+6.  [📅 Programme & Équipe](#-programme--équipe)
+
+---
+
 ## 📖 Présentation de l'UE
+L'évolution rapide des technologies numériques et l'augmentation exponentielle des données en santé (**Big Data**) transforment radicalement la pratique médicale. Cette unité d'enseignement a pour objectif de préparer les futurs professionnels de santé à comprendre, manipuler et évaluer les outils d'**Intelligence Artificielle** et les approches **"Omiques"** (Génomique, Protéomique, etc.).
 
-L'évolution rapide des technologies numériques et l'augmentation exponentielle des données en santé (Big Data) transforment radicalement la pratique médicale. Cette unité d'enseignement (UE) a pour objectif de préparer les futurs professionnels de santé à comprendre, manipuler et évaluer de manière critique les outils d'Intelligence Artificielle (IA) et les approches "Omiques" (Génomique, Protéomique, etc.).
-
-À travers un parcours mêlant cours théoriques et ateliers pratiques intensifs, vous apprendrez les fondamentaux de la science des données appliquée au diagnostic médical et à la recherche clinique.
+[**Consulter le support de cours introductif**](./Cours/1_Introduction_IA_2026.pdf)
 
 ---
 
-## 🚀 Guide de démarrage rapide
+## 🚀 Accès Rapide (Onboarding)
+> [!IMPORTANT]
+> Avant de commencer votre premier TP, assurez-vous d'avoir suivi les étapes 1 et 2 ci-dessous.
 
-| Étapes | Action | Lien utile |
+| Étapes | Ressource | Description |
 | :--- | :--- | :--- |
-| **1** | **Environnement** | Créer un compte [Google Colab](https://colab.research.google.com/) |
-| **2** | **Apprentissage** | [Zéro : Guide de démarrage Colab](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/0_Guide_Demarrage_Colab.ipynb) |
-| **3** | **Compte GitHub** | Créer un compte [GitHub](https://github.com/join) pour le forum |
-| **4** | **Forum de l'UE** | [Discussion & Questions](https://github.com/agodmer/UE_medecine_IA_OMICS_2026/discussions) |
-| **5** | **Cheat Sheet** | [Consulter le Mémo Python](Doc_utiles/python_cheatsheets.pdf) |
+| **01** | [**Google Colab**](https://colab.research.google.com/) | Environnement d'exécution Cloud (indispensable) |
+| **02** | [**TP Zéro**](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/0_Guide_Demarrage_Colab.ipynb) | Apprendre à utiliser les Notebooks en 10 min |
+| **03** | [**GitHub Account**](https://github.com/join) | Créer un compte pour poser vos questions |
+| **04** | [**Forum Discussions**](https://github.com/agodmer/UE_medecine_IA_OMICS_2026/discussions) | **Notre espace d'entraide (Support technique)** |
+| **05** | [**Cheat Sheet**](Doc_utiles/python_cheatsheets.pdf) | Le mémo Python à garder à portée de main |
 
 ---
 
-## 💻 Travaux Pratiques (TP) & Notebooks
+## 💻 Parcours de TP & Notebooks
+Chaque TP est une brique essentielle pour réussir votre évaluation finale.
 
-Les TP sont interactifs et conçus pour être lancés directement sur Google Colab.
-
-| # | Sujet | Notebook (Lien direct Colab) |
+| # | Module | Notebook (Lien Colab) |
 | :---: | :--- | :--- |
-| 0 | **Zéro : C'est quoi un Notebook ?** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/0_Guide_Demarrage_Colab.ipynb) |
-| 1 | **Exploration de données (Partie 1)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/1_TP_Part1_EXPLO.ipynb) |
-| 2 | **Exploration de données (Partie 2)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/2_TP_Part2_EXPLO.ipynb) |
-| 3 | **Comprendre le Machine Learning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/3_Comprendre_le_ML.ipynb) |
-| 4 | **S'entraîner au Machine Learning** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/4_TD_Part3_ML.ipynb) |
-| 📝 | **Fiche Récap : Algorithmes ML** | [Consulter la fiche mémo](TP/5_Fiche_Recap_ML_TD.md) |
-| ❓ | **Quiz d'entraînement** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/Quizz/Quiz_MachineLearning_SansCorrection.ipynb) [Correction](Quizz/Quiz_MachineLearning_Corrections.ipynb) |
+| 0 | **Onboarding** : Prendre en main l'outil | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/0_Guide_Demarrage_Colab.ipynb) |
+| 1 | **Data Explo 1** : Manipulation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/1_TP_Part1_EXPLO.ipynb) |
+| 2 | **Data Explo 2** : Visualisation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/2_TP_Part2_EXPLO.ipynb) |
+| 3 | **Theory** : Comprendre les mécanismes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/3_Comprendre_le_ML.ipynb) |
+| 4 | **Hands-on** : Entraîner des modèles | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/4_TD_Part3_ML.ipynb) |
+| 📝 | **Synthèse** : Algorithmes ML | [Consulter la fiche](./TP/5_Fiche_Recap_ML_TD.md) |
+| ❓ | **Training** : Quiz avec auto-correction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/Quizz/Quiz_MachineLearning_SansCorrection.ipynb) |
+
+---
+
+## 📚 La Boîte à Outils (Bible de l'Étudiant)
+Retrouvez ici nos guides de synthèse pour le Data Challenge :
+*   📘 [**Fiche Métriques Cliniques**](./Ressources_Pedagogiques/Fiche_Metriques_Cliniques.md) : Sensibilité vs Précision.
+*   📗 [**Glossaire Bio-IA**](./Ressources_Pedagogiques/Glossaire_Bio_IA.md) : Dictionnaire labo/IA moderne.
+*   🆘 [**FAQ Dépannage Technique**](./Ressources_Pedagogiques/FAQ_Depannage_Technique.md) : Aide pour résoudre les erreurs Python.
 
 ---
 
 ## 🏆 Le Data Challenge
 
-L'évaluation finale repose sur un **Data Challenge** concret basé sur des données réelles de spectrométrie de masse (MALDI-TOF).
 
-### Contexte Scientifique
-Lors de l'épidémie de *Escherichia coli* O104:H4 en 2011 (étude [Christner et al. (2014)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101783)), la rapidité de détection des souches pathogènes a été un enjeu majeur de santé publique. Votre mission est de construire un modèle capable d'identifier automatiquement les souches "tueuses" (`orec`) parmi les souches non épidémiques (`norec`).
+L'évaluation finale repose sur l'identification de souches de ***Escherichia coli*** pathogènes par spectrométrie de masse (**MALDI-TOF**).
 
-### Attendus & Evaluation
-- **Notebook complet** : Analyse exploratoire (PCA), Machine Learning (Random Forest, SVM, etc.) et évaluation des performances (Matrice de confusion, F1-score).
-- **Restitution** : Présentation par binôme (PowerPoint, 3 diaporamas) devant le jury.
-- **Accès au challenge** :  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/6_TP_DataChallenge_MALDI_TOF_version_apprenant.ipynb)
+### Le Contexte Scientifique
+Lors de l'épidémie épidémie de 2011 (étude [Christner et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101783)), la rapidité de typage était vitale. Votre mission : construire l'IA capable de détecter le clone épidémique (`orec`).
+
+> [!TIP]
+> **Pas de téléchargement requis** : Les données du challenge sont directement appelées depuis le Cloud au sein du Notebook.
+
+### [Lancer le Challenge sur Colab]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agodmer/UE_medecine_IA_OMICS_2026/blob/main/TP/6_TP_DataChallenge_MALDI_TOF_version_apprenant.ipynb)
 
 ---
 
@@ -69,28 +88,20 @@ Lors de l'épidémie de *Escherichia coli* O104:H4 en 2011 (étude [Christner et
 
 | Jour | Matin (9h-12h) | Après-midi (14h-17h) |
 | :--- | :--- | :--- |
-| **Mardi 7** | Introduction IA & Recherche bibliographique | Paramétrage & Stats non supervisées |
-| **Mercredi 8** | IA & Infertilité, IA & OMICS | Initiation à Python (Partie 1 & 2) |
-| **Jeudi 9** | IA & Paludisme, IA & Neurosciences | Comprendre le ML avec Python |
-| **Vendredi 10** | Mini-congrès LCA (DFGSM3) | Mini-congrès LCA (DFGSM2) |
-| **Lundi 13** | TAL en santé & LLM Prompting | Machine Learning sur données médicales |
-| **Mardi 14** | Nephrogénomique & Cardio-IA | Travail personnel |
-| **Mercredi 15** | Cytologie Digitale & SIA | **Lancement du Data Challenge** |
-| **Jeudi 16** | Travail personnel | Travail personnel |
-| **Vendredi 17** | **Évaluation : Soutenances orales** | **Évaluation : Soutenances orales** |
+| **Mardi 7** | Intro IA [PDF](./Cours/1_Introduction_IA_2026.pdf) | Paramétrage & PCA [PDF](./Cours/2_cours_PCA.pdf) |
+| **Mercredi 8** | IA & OMICS [PDF](./Cours/3_Exemples_application_IA_2026.pdf) | Initiation à Python (Explo 1 & 2) |
+| **Jeudi 9** | Paludisme & Neurosciences | Comprendre le ML avec Python |
+| **Vendredi 17** | **Soutenances orales finales** | **Soutenances orales finales** |
 
 ---
 
-## 👤 Responsables de l'UE
-
-- **Dr Alexandre Godmer** (Hôpital Saint-Antoine, CIMI-Paris, Sorbonne-Université)
-- **Pr Antonin Lamazière** (Sorbonne-Université)
-- **Dr Guillaume Bachelot** (CECOS Tenon, Sorbonne-Université)
-- **Dr Orlando Schilton** (Hôpital Trousseau, Sorbonne-Université)
-
----
+## 👥 Responsables de l'UE
+*   **Dr Alexandre Godmer** (St-Antoine, Sorbonne-Université)
+*   **Pr Antonin Lamazière** (Sorbonne-Université)
+*   **Dr Guillaume Bachelot** (Tenon, Sorbonne-Université)
+*   **Dr Orlando Schilton** (Trousseau, Sorbonne-Université)
 
 <p align="center">
-  <i>UE organisée par la Faculté de Médecine de Sorbonne Université.</i><br>
-  <i>Support technique via le forum GitHub Discussions.</i>
+  <img src="https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square" alt="CC BY-NC-SA 4.0"> <br>
+  <i>UE organisée par la Faculté de Médecine de Sorbonne Université.</i>
 </p>
