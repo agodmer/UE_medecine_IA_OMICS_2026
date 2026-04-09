@@ -36,6 +36,7 @@
 5.  [🏆 Le Data Challenge (évaluation)](#-le-data-challenge-évaluation)
 6.  [📅 Programme](#-programme--équipe)
 
+=> https://github.com/agodmer/Clostri/blob/f439cff3985303829bc855cc2e11b400571ab634/Copie_de_6_TP_DataChallenge_MALDI_TOF_version_apprenant_v2.ipynb
 ---
 
 ## 📖 Présentation de l'UE
