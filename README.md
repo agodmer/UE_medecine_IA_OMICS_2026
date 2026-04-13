@@ -89,7 +89,7 @@ Retrouvez ici nos guides de synthèse pour le Data Challenge :
 L'évaluation finale repose sur l'identification de souches de ***Escherichia coli*** pathogènes par spectrométrie de masse (**MALDI-TOF**).
 
 ### Le Contexte Scientifique
-Lors de l'épidémie épidémie de 2011 (étude [Christner et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101783)), la rapidité de typage était vitale. Votre mission : construire l'IA capable de détecter le clone épidémique (`orec`).
+Lors de l'épidémie épidémie de 2011 (étude [Christner et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101924)), la rapidité de typage était vitale. Votre mission : construire l'IA capable de détecter le clone épidémique (`orec`).
 
 > [!TIP]
 > **Pas de téléchargement requis** : Les données du challenge sont directement appelées depuis le Cloud au sein du Notebook.
